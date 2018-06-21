@@ -16,6 +16,12 @@ public class Point {
 		this.x=x;  this.y=y;
 	}
 
+	
+public Point(int x) {
+		
+		this.x=x; 
+	}
+
 
 
 
