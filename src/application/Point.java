@@ -23,10 +23,6 @@ public class Point {
 	}
 
 	
-public Point(int x) {
-		
-		this.x=x; 
-	}
 
 
 
@@ -57,5 +53,16 @@ public Point(int x) {
 	}
 	
 	
+
+	public int getZ() {
+		return z;
+	}
+
+
+
+
+	public void setZ(int z) {
+		this.z = z;
+	}
 	
 }
